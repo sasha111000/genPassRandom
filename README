@@ -55,6 +55,9 @@ main
 	generate big random characters' string
 	3 calls printGroup in a loop
 
+based on randtest.asm sample program, from book: Assembly Language 
+Step-By-Step by J.Duntemann, 3rd edition (Wiley, 2009)
+
 
 
 

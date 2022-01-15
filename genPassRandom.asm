@@ -5,7 +5,10 @@
 ;;   created date    : 02/09/2019
 ;;   last update     : 10/09/2019
 ;;   author          : sasha111000
-;;   description     : a simple pseudo-random 8-digit passwords generator using nasm 0.98.39
+;;   description     : a simple pseudo-random 8-digit passwords generator using
+;;                     nasm 0.98.39; based on randtest.asm sample program, from 
+;;                     book: Assembly Language Step-By-Step by J.Duntemann, 3rd
+;;                     edition (Wiley, 2009)
 ;;
 ;;   build using these commands:
 ;;     nasm -f elf -g -F stabs genPassRandom.asm
